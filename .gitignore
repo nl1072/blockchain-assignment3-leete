@@ -20,4 +20,4 @@
 /coverage
 
 # Environment file
-.env
+#.env
